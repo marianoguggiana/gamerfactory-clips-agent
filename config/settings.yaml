@@ -1,0 +1,32 @@
+brand:
+  name: Gamer Factory
+  website: gamerfactory.com.ar
+  language: es-AR
+
+content:
+  ideas_per_run: 10
+  selected_per_run: 3
+  duration_min_seconds: 25
+  duration_max_seconds: 35
+  target_words_min: 70
+  target_words_max: 85
+  categories:
+    - myths
+    - mistakes
+    - comparisons
+    - buying_advice
+    - explainers
+    - news
+
+video:
+  aspect_ratio: "9:16"
+  clip_duration_seconds: 3
+  voice_speed: 1.08
+  music_volume: 0.10
+  variants_per_topic: 1
+
+publishing:
+  auto_publish: false
+
+learning:
+  min_samples_before_conclusion: 5
